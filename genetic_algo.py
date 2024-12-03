@@ -1,7 +1,3 @@
-# Name: Yue Zhu
-# USC ID: 1260841401
-# Date: Sept-21-2022
-#
 # 3D Travelling Salesman Problem using Genetic Algorithm
 #
 # Overview of GA Cycle:
